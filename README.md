@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
 This project was first created the day after Thanksgiving, 2022
 
@@ -18,7 +16,8 @@ The sub 300 lines of python code is optimized to be fast and utilize efficient p
 
 ## Usage
 This is an interview style script that collects data from the end user to shape the output of statistics.
-Run the script with no arguments and respond to each of the prompts
+Run the script with no arguments and respond to each of the prompts. 
+At the end of each run an option is provided to restart the data analysis without quitting the current session.  
 
 
 ### Files used
